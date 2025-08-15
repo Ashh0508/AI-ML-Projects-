@@ -1,5 +1,13 @@
 # 🏗️ Concrete Strength Prediction using Machine Learning
 
+## Domain
+In Ghana, building collapse incidents are a recurring problem, often resulting in serious casualties. Between 2000 and 2020, approximately 60 people lost their lives and 140 were injured in 20 reported cases of building collapse. Even in major cities, such incidents still occur, with low-quality building materials, particularly concrete, identified as a key contributing factor.
+
+Concrete in Ghana is typically mixed directly on construction sites rather than purchased as ready-mix, primarily due to the high cost of pre-prepared concrete. However, ready-mix concrete generally meets standardized quality parameters, making it more reliable than on-site mixes.
+
+The quality of concrete is often measured through compressive strength tests, which determine the material’s ability to withstand loads. Compressive strength is influenced by the proportions of components in the mix—cement, water, coarse aggregate, fine aggregate, etc.—as well as environmental factors like temperature, humidity, and exposure conditions. This combination of variables makes predicting concrete strength a complex task.
+
+
 ## 1️⃣ Business Understanding
 Concrete is one of the most widely used construction materials, and its compressive strength is a critical factor in determining the structural integrity and durability of buildings and infrastructure.
 Traditionally, strength is determined through time-consuming laboratory tests that require casting, curing, and testing specimens.
